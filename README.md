@@ -2,11 +2,6 @@
 
 ###### This is demo app of LinkedIn learning course [React.js: Building an Interface](https://www.linkedin.com/learning/react-js-building-an-interface-2/creating-interfaces-with-react)
 
-## Table of contents
-
-- [General info](#general-info)
-- [Technologies](#technologies)
-
 ## General info
 
 This project is created with [CRA](https://github.com/facebook/create-react-app) and was rebuilt uses React Hooks and arrow functions (some ES6+ features).
