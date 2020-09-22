@@ -1,0 +1,23 @@
+body {
+  font-weight: 200;
+  background-color: #337ab7;
+}
+
+header a,
+footer a {
+  color: white;
+}
+
+footer {
+  font-size: 0.8em;
+}
+
+input::-webkit-calendar-picker-indicator:hover {
+  cursor: pointer;
+}
+
+.bg-primary,
+.btn-primary {
+  background-color: #377bb5 !important;
+  border: inherit;
+}
