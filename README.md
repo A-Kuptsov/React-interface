@@ -12,3 +12,4 @@ The app uses functions of sorting, deleting, adding and editing items, working w
 
 - React version: 16.13.1
 - Bootstrap version: 4.5.2
+- React-moment version: 0.9.7
