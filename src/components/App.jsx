@@ -33,10 +33,7 @@ function App() {
   };
 
   const deleteItem = item => {
-    const itemIndex = data.findIndex((n, i, arr) => n === item);
-    let newData = [...data];
-    newData.splice(itemIndex, 1);
-    setData(newData);
+    setData(prevData => prevData.filter(i => i !== item));
   };
 
   const order = orderDirection === "asc" ? 1 : -1;
